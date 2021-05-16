@@ -297,6 +297,7 @@ input, textarea {
 input[type=submit] {
     width: 30%;
     margin: 5vh auto;
+    background: var(--skincol);
 }
 
 /* MEDIA QUERIES FOR VARIOUS DEVICE BREAKPOINTS*/
