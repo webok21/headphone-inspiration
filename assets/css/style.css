@@ -447,12 +447,3 @@ input[type=submit] {
         margin-bottom: 5vh;
     }
 }
-
-@media (max-width: 320px) {
-    body {
-        font-size: 13px;
-    }
-    .container {
-        grid-template-columns: 1fr;
-    }
-}
