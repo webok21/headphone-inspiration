@@ -102,8 +102,7 @@ span {
     width: 14px;
     height: 14px;
     position: absolute;
-    top: 26%;
-    left: 15%;
+    margin: 45px 0 0 -44px;
 }  
 .side-li:not(:last-child)::before {
     content: "";
