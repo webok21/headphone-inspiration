@@ -366,7 +366,7 @@ input[type=submit] {
         margin-top: 5vh;
     }
     .text-designAlchemy {
-        padding-left: 5%;
+        padding-left: 24%;
     }
     .video-container {
         padding-top: 10vh;
@@ -407,6 +407,9 @@ input[type=submit] {
     }
     .onepage-text h1 {
         margin: 12vh 0;
+    }
+    .text-designAlchemy {
+        padding: 3%;
     }
     .video-container {
         width: 90%;
