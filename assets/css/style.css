@@ -307,6 +307,7 @@ input[type=submit] {
         font-size: 14px;
     }
     .top-navbar {
+        position: static;
         padding: 2vh 0 2vh 4%;
     }
 }
@@ -354,7 +355,7 @@ input[type=submit] {
     }
     .intro h1 {
         text-align: left;
-        padding: 5vh 6% ;
+        padding: 13vh 6% ;
     }
     .img-jumpingMan {  
         margin-bottom: 5vh;
@@ -382,10 +383,8 @@ input[type=submit] {
         font-size: 14px;
     }
     .container {
-        grid-template-columns: 30% 70%;
-    }
-    .top-navbar {
-        position: static;
+        grid-template-columns: 1fr;
+        grid-template-rows: 1fr;
     }
     .top-navbar li {
         display: block;
